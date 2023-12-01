@@ -1,0 +1,83 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+  }
+
+  .container
+  {
+    width: 800px;
+    padding: 30px 0px;
+  }
+
+  /*.formview
+  {
+    width: 100%;
+
+  }*/
+  h1
+  {
+    font-size: 40px;
+    text-align: center;
+  }
+  p
+  {
+    text-align: center;
+    font-size: 16px;
+    font-style: italic;
+    margin-top: 20px;
+
+  }
+  .form-control
+  {
+    padding: 15px 15px;
+    border: 1px solid gray;
+    color: gray;
+    font-size: 14px;
+    
+}
+  .formview
+  {
+    border: 1px solid gray;
+    padding: 30px;
+    margin: 30px 0px;
+    background-color: aqua;
+    border-radius: 20px;
+
+  }
+  label
+  {
+    padding: 20px 0px;
+  }
+
+  select
+  {
+    display: block;
+    width: 100%;
+    cursor: pointer;
+    padding: 15px 15px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    font-size: 14px;
+    color: gray;
+  }
+  .btn
+  {
+    margin:20px 0px 0px 0px ;
+    border: 1px solid ;
+    color: #fff;
+    background-color:rgb(190, 137, 137);
+  }
+  .btn:hover
+  {
+    background-color: violet;
+  }
+  caption
+  {
+    text-align: center;
+  }
